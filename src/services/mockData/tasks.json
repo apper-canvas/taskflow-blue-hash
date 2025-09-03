@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "title": "Review quarterly reports",
+    "description": "Analyze Q3 performance metrics and prepare summary for the executive team",
+    "dueDate": "2024-12-15",
+    "priority": "high",
+    "categoryId": 1,
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-12-01T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "Update project documentation",
+    "description": "Revise API documentation and user guides for the latest release",
+    "dueDate": "2024-12-20",
+    "priority": "medium",
+    "categoryId": 2,
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-12-01T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Schedule team building event",
+    "description": "Organize holiday party for the development team",
+    "dueDate": "2024-12-18",
+    "priority": "low",
+    "categoryId": 3,
+    "completed": true,
+    "archived": false,
+    "createdAt": "2024-11-28T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Prepare presentation slides",
+    "description": "Create slides for the monthly stakeholder meeting",
+    "dueDate": "2024-12-12",
+    "priority": "high",
+    "categoryId": 1,
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-12-02T16:45:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Code review for new features",
+    "description": "Review pull requests for the authentication module",
+    "dueDate": "",
+    "priority": "medium",
+    "categoryId": 2,
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-12-03T11:20:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "Order office supplies",
+    "description": "Restock printer paper, pens, and sticky notes",
+    "dueDate": "2024-12-10",
+    "priority": "low",
+    "categoryId": 4,
+    "completed": true,
+    "archived": false,
+    "createdAt": "2024-11-25T13:00:00Z"
+  }
+]

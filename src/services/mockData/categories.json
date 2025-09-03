@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "name": "Business",
+    "color": "#5B21B6",
+    "taskCount": 2
+  },
+  {
+    "Id": 2,
+    "name": "Development",
+    "color": "#10B981",
+    "taskCount": 2
+  },
+  {
+    "Id": 3,
+    "name": "Personal",
+    "color": "#F59E0B",
+    "taskCount": 1
+  },
+  {
+    "Id": 4,
+    "name": "Admin",
+    "color": "#EF4444",
+    "taskCount": 1
+  },
+  {
+    "Id": 5,
+    "name": "Learning",
+    "color": "#3B82F6",
+    "taskCount": 0
+  },
+  {
+    "Id": 6,
+    "name": "Health",
+    "color": "#EC4899",
+    "taskCount": 0
+  }
+]
